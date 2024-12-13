@@ -2,14 +2,14 @@
 
 This project demonstrates a solution for processing customer support chat data to extract critical details such as:
 
-- **Customer Name
+- **Customer Name**
 
-- **Order ID
+- **Order ID**
 
-- **Customer Email
+- **Customer Email**
 
-- **Support Representative Name
+- **Support Representative Name**
 
-- **Customer Sentiment
+- **Customer Sentiment**
 
 The extracted information is systematically stored in an SQL database, enabling efficient data management and retrieval. Additionally, a Large Language Model (LLM) is employed to analyze the stored data and provide valuable insights based on user queries.
